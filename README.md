@@ -9,4 +9,4 @@ The data used in these experiments can be found here:
 
 https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/data
 
-The dataset is comprised of roughly 2 million comments posted in an online, public forum that has since bbeen closed down. 
+The dataset is comprised of roughly 2 million comments posted in an online, public forum that has since been closed down. 
